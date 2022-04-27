@@ -65,6 +65,7 @@ export default  function Datas () {
     <div>
         <h3>{elem.title}</h3>
         <h4>Par : {elem.users_name}</h4>
+        <p> MOMA</p>
     </div>
     <div>
         <p>{elem.content}</p>
